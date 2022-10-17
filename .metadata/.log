@@ -1192,3 +1192,90 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2022-10-17 08:31:45.860
 !MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-17 14:25:16.490
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-17 14:25:18.685
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-17 14:25:19.230
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-17 14:25:21.516
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:27.918
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:27.921
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:27.927
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:27.929
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.005
+!MESSAGE 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON needs property 'com.atollic.truestudio.general.runtimelib.413698035' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.006
+!MESSAGE Failed to get device info (Debug) for project 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.007
+!MESSAGE Failed to get device info (Debug) for project 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.007
+!MESSAGE Failed to get device info (Debug) for project 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.009
+!MESSAGE 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON needs property 'com.atollic.truestudio.general.runtimelib.1914945772' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.010
+!MESSAGE Failed to get device info (Release) for project 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.011
+!MESSAGE Failed to get device info (Release) for project 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-17 14:25:28.011
+!MESSAGE Failed to get device info (Release) for project 004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:28.054
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:28.056
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:28.061
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:28.064
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:28.179
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:28.181
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:32.603
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:33.664
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:34.810
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-17 14:25:34.947
+!MESSAGE Failed to find device info
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 14:25:58.945
+!MESSAGE Indexed '004_STD_EXTERNAL_INTERRUPT_WITH_BUTTON' (38 sources, 82 headers) in 2,48 sec: 9.718 declarations; 32.960 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (%0)
+
+!ENTRY com.atollic.hardwaredebug.launch 2 0 2022-10-17 15:45:40.539
+!MESSAGE Won't launch debug session since we failed to locate the binary.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2022-10-17 15:52:23.606
+!MESSAGE Unloading product manager
