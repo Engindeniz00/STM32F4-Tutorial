@@ -1,0 +1,27 @@
+#include "stm32f4xx.h"
+#include "stm32f4_discovery.h"
+
+GPIO_Config(void)
+{
+	RCC->CR |= 0x00030000;
+	while(!(RCC->CR & 0x00020000));
+	RCC->CR |= 0x00080000;
+}
+
+int main(void)
+{
+  while (1)
+  {
+  }
+}
+
+
+void EVAL_AUDIO_TransferComplete_CallBack(uint32_t pBuffer, uint32_t Size){
+  /* TODO, implement your code here */
+  return;
+}
+
+uint16_t EVAL_AUDIO_GetSampleCallBack(void){
+  /* TODO, implement your code here */
+  return -1;
+}
