@@ -1639,3 +1639,81 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-10-19 12:45:49.366
 !MESSAGE Indexed '004_2_STD_EXTERNAL_MULTI_INTERRUPT_WITH_BUTTON' (38 sources, 82 headers) in 1,98 sec: 9.718 declarations; 32.960 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (%0)
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-19 13:59:33.628
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-19 13:59:35.097
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-10-19 13:59:37.403
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.806
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.807
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.812
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.813
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.866
+!MESSAGE 004_2_REGISTER_EXTERNAL_INTERRUPT needs property 'com.atollic.truestudio.general.runtimelib.248543130' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.866
+!MESSAGE Failed to get device info (Debug) for project 004_2_REGISTER_EXTERNAL_INTERRUPT
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.867
+!MESSAGE Failed to get device info (Debug) for project 004_2_REGISTER_EXTERNAL_INTERRUPT
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.867
+!MESSAGE Failed to get device info (Debug) for project 004_2_REGISTER_EXTERNAL_INTERRUPT
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.869
+!MESSAGE 004_2_REGISTER_EXTERNAL_INTERRUPT needs property 'com.atollic.truestudio.general.runtimelib.1067730413' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.870
+!MESSAGE Failed to get device info (Release) for project 004_2_REGISTER_EXTERNAL_INTERRUPT
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.870
+!MESSAGE Failed to get device info (Release) for project 004_2_REGISTER_EXTERNAL_INTERRUPT
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-10-19 13:59:43.871
+!MESSAGE Failed to get device info (Release) for project 004_2_REGISTER_EXTERNAL_INTERRUPT
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.896
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.897
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.902
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.903
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.944
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:43.945
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:47.783
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:47.972
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:48.183
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-10-19 13:59:48.306
+!MESSAGE Failed to find device info
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-19 14:00:03.041
+!MESSAGE Indexed '004_2_REGISTER_EXTERNAL_INTERRUPT' (38 sources, 82 headers) in 2,18 sec: 9.718 declarations; 32.960 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (%0)
