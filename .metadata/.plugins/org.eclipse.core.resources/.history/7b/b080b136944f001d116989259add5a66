@@ -1,0 +1,37 @@
+#include "stm32f4xx.h"
+#include "stm32f4_discovery.h"
+
+GPIO_InitTypeDef GPIO_InitStruct; // gpio
+EXTI_InitTypeDef EXTI_InitStruct; // interrupt
+NVIC_InitTypeDef NVIC_InitStruct;
+
+
+
+void GPIO_Config()
+{
+	RCC_AHB1PeriphClockCmd(GPIOD,ENABLE);
+}
+
+void EXTI_Config()
+{
+}
+
+int main(void)
+{
+	GPIO_Config();
+	EXTI_Config();
+  while (1)
+  {
+  }
+}
+
+
+void EVAL_AUDIO_TransferComplete_CallBack(uint32_t pBuffer, uint32_t Size){
+  /* TODO, implement your code here */
+  return;
+}
+
+uint16_t EVAL_AUDIO_GetSampleCallBack(void){
+  /* TODO, implement your code here */
+  return -1;
+}
